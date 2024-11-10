@@ -1,2 +1,4 @@
 my_redential.json
-*.pyc
+*.tmp.html
+__pycache__/*
+lib/*
