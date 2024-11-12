@@ -1,3 +1,5 @@
 my_redential.json
 __pycache__/*
 lib/*
+.graph.tmp.html
+*.gexf
